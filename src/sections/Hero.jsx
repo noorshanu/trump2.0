@@ -29,11 +29,11 @@ function Hero() {
 
 
             <div className=" flex justify-center gap-4 items-center">
-            <a href="https://t.me/babytrumpso" target="_blank" className=" text-5xl ">
+            <a href="https://t.me/trumpsols" target="_blank" className=" text-5xl ">
               <FaTelegram />
             </a>
 
-            <a href="https://twitter.com/BabyTrumphh" target="_blank" className=" text-5xl">
+            <a href="https://twitter.com/Trumphsol" target="_blank" className=" text-5xl">
               <FaSquareXTwitter />
             </a>
           </div>

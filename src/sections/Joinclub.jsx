@@ -12,7 +12,7 @@ function Joinclub() {
           </h1>
 
           <p className=" text-center text-xl py-4">
-            Ready to embrace the TrumpWifspirit? Here's how you can get
+            Ready to embrace the TrumpWif spirit? Here's how you can get
             involved:
           </p>
         </div>

@@ -7,7 +7,7 @@ function Hero() {
       <div className=" container-wrapper">
         <div className=" flex flex-col justify-center items-center pt-0 sm:pt-[1rem]">
           <h1 className=" asul-bold text-xl sm:text-3xl font-semibold py-4">
-            Laugh, stake, and collect rewards with Trump on Solana!
+            Laugh, stake, and collect rewards with TrumpWif on Solana!
           </h1>
           <img
             src="images/logo.png"
@@ -27,7 +27,7 @@ function Hero() {
 
           <div className="flex justify-center gap-4 items-center">
             <a
-              href="https://www.dextools.io/app/en/solana/pair-explorer/BfMapUsutm8i4bawoAY42HGTAc6LRDfAM3LcScFmpMyn?t=1713285170026"
+              href="#"
               target="_blank"
               className="bg-[#ab3435] rounded-full text-lg sm:text-2xl py-2 px-6 font-bold asul-bold  border-2 border-black"
             >
@@ -36,7 +36,7 @@ function Hero() {
 
             <div className=" flex justify-center gap-4 items-center">
               <a
-                href="https://t.me/trumpsols"
+                href="https://t.me/trumpwifs"
                 target="_blank"
                 className=" text-5xl "
               >
@@ -44,7 +44,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://twitter.com/Trumphsol"
+                href="https://twitter.com/trump_wif1"
                 target="_blank"
                 className=" text-5xl"
               >

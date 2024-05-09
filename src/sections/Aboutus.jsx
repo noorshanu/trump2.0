@@ -17,7 +17,7 @@ function Aboutus() {
             <h1 className=" asul-bold text-4xl py-4">About us</h1>
 
             <p className=" text-lg py-2">
-              Get ready for the ultimate crypto adventure with Baby Trump Meme
+              Get ready for the ultimate crypto adventure with TrumpWifMeme
               Coin on Solana! Imagine the iconic figure of President Donald
               Trump, but cuter, funnier, and a tad more...babyish! This little
               fella is here to shake up the crypto world with his winning
